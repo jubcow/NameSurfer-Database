@@ -1,1 +1,1 @@
-# NameSurfer-Database
+# Database of names program for C++
